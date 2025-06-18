@@ -1,5 +1,5 @@
 ## Hi there my name is Joseph De Jesus 👋
-**Software Engineering Student at Arizona State University Polytechnic**
+**Software Engineering Graduate from Arizona State University Polytechnic**
 
 ----
 

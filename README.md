@@ -5,6 +5,12 @@
 
 I’m Joseph, a Software Engineering student at Arizona State University Polytechnic, passionate about building impactful projects and expanding my technical knowledge.
 
+## 2025 Work Experience 🖥️
+ 
+Since April 2025, I’ve been interning as a Quality Assurance Engineer at Pawgo, a Phoenix-based startup. 
+In this role, I’m actively developing my expertise in end-to-end testing using Playwright, focusing on building reliable, automated test suites to ensure a seamless user experience across the platform. 
+I’ve also gained hands-on experience writing YAML configuration files and setting up GitHub Actions workflows to integrate testing into the CI/CD pipeline.
+
 ## 2024 Work Experience 🏊
 
 Since May 2024, I’ve served as an Age Group Swim Coach for the Seville Country Club Sharks in Gilbert, Arizona.
@@ -14,11 +20,15 @@ I’ve created websites and spreadsheets to enhance team communication and organ
 
 ## What I am currently working on
 
-My current projects reflect my goal of integrating software solutions across various domains of interest:
+My current work at Pawgo as a QA Engineering Intern focuses on testing, automation, and system reliability:
 
-- **Swimmer Stats Database**: Developing a comprehensive database to track and analyze swimmer performance (times, events, stats) for the Seville Country Club Sharks.
-- **Pet Medical Database**: Building a digital record-keeping system for pet medical information.
-- **Integrated Educational Support System**: Creating an educational support platform for the University of Lethbridge, Alberta as part of my Computing Capstone project.
+ - End-to-End Testing with Playwright: Writing and maintaining automated tests to ensure the stability and usability of core platform features.
+
+ - CI/CD with GitHub Actions: Creating and managing YAML configuration files to integrate Playwright tests into continuous integration workflows.
+
+ - Test Coverage Expansion: Auditing existing test cases and expanding coverage to include edge cases and newly released features.
+
+ - Bug Reproduction & Reporting: Identifying, reproducing, and documenting bugs in coordination with the development team to support faster issue resolution.
 
 ## Languages and Tools
 
